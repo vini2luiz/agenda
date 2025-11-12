@@ -1,0 +1,7 @@
+# Configuração do Backend
+# Copie este arquivo para .env e configure as variáveis
+
+PORT=3003
+
+# SQLite - Caminho do banco de dados (opcional, padrão: ./data/agenda.db)
+# DB_PATH=./data/agenda.db
